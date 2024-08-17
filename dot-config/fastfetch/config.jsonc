@@ -8,7 +8,7 @@
   },
   "display": {
     "separator": "",
-    "keyWidth": 13,
+    "key": { "width": 13 },
     "color": {
       "keys": "default"
     }
