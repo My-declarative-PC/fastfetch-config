@@ -8,7 +8,9 @@
   },
   "display": {
     "separator": "",
-    "key": { "width": 13 },
+    "key": {
+      "width": 13
+    },
     "color": {
       "keys": "default"
     }
@@ -73,7 +75,7 @@
     },
     {
       "type": "cursor",
-      "key": "║     ⠀⠀ ║\u001b[8D\u001b[36mCursor",
+      "key": "║     ⠀⠀ ║\u001b[8D\u001b[36mCursor"
     },
     {
       "type": "colors",
@@ -83,6 +85,6 @@
     {
       "type": "custom",
       "format": "╚════════╝"
-    },
+    }
   ]
 }
