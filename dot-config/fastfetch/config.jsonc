@@ -24,7 +24,7 @@
       "type": "title",
       "color": {
         "user": "cyan",
-        "at": "bright_magenta",
+        "at": "magenta",
         "host": "blue"
       },
       "key": "║     ⠀⠀ ║\u001b[8D\u001b[31mUser"
